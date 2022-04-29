@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "mjrefresh#spm_supported",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/CoderMJLee/MJRefresh#spm_supported",
+      "state" : {
+        "branch" : "master",
+        "revision" : "f9db27ea41c7e3f5002be57bbf8fd5bf30f7346e"
+      }
+    }
+  ],
+  "version" : 2
+}

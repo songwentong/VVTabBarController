@@ -1,6 +1,7 @@
-public struct VVTabBarController {
-    public private(set) var text = "Hello, World!"
+import UIKit
 
-    public init() {
-    }
+
+
+open class VVTabBarController {
+
 }
