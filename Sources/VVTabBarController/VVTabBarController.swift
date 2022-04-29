@@ -1,0 +1,6 @@
+public struct VVTabBarController {
+    public private(set) var text = "Hello, World!"
+
+    public init() {
+    }
+}
